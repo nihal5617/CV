@@ -99,7 +99,7 @@ h4 {
 
 .links {
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .links :hover {
